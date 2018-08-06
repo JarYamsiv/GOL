@@ -1,4 +1,4 @@
-# GOL
+# Game Of Life simulation
 a cellular automaton. simulation of John conway's game of life
 
 ## requirements
